@@ -23,8 +23,8 @@ Build blog post with gatsby and Contentful
 *  [] Styling
      *  [x] npm install gatsby-plugin-sass  node-sass
      *  [x] gatsby-config
-     *  [] Css Modules
-*  [] Gatsby data with GraphQL
+     *  [x] Css Modules
+*  [x] Gatsby data with GraphQL
 *  [] GraphQL playground
 *  [] Sourcing
 *  [] Mark down posts

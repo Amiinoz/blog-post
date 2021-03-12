@@ -19,9 +19,11 @@ Build blog post with gatsby and Contentful
 *  [x] Building pages
 *  [x] Navigation
 *  [x] Shared components
-*  [] Layout
+*  [x] Layout
 *  [] Styling
-     *  [ ] Css Modules
+     *  [x] npm install gatsby-plugin-sass  node-sass
+     *  [x] gatsby-config
+     *  [] Css Modules
 *  [] Gatsby data with GraphQL
 *  [] GraphQL playground
 *  [] Sourcing

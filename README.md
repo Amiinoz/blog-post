@@ -26,7 +26,7 @@ Build blog post with gatsby and Contentful
      *  [x] Css Modules
 *  [x] Gatsby data with GraphQL
 *  [x] GraphQL playground
-*  [] Sourcing content from the file system
+*  [x] Sourcing content from the file system
 *  [] Mark down posts
 *  [] Slugs
 *  [] Generating pages

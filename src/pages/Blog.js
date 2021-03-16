@@ -2,10 +2,8 @@ import React from 'react'
 import { Link, graphql, useStaticQuery } from 'gatsby'
 
 import Layout from '../components/Layout'
+import * as blogStyles from './blog.module.scss'
 
-// 1. fetch the slug for post
-// 2 . Use slug to generate a link to the post page
-// 3 . test
 
 
 const Blog = () => {
@@ -29,17 +27,17 @@ const Blog = () => {
   console.log(data)
 
   return (
-    <Layout>
+    <Layout >
       <h1>Blog</h1>
-      <ol>
+      <ol className={blogStyles.posts}>
         {data.allMarkdownRemark.edges.map((edge) => {
           return (
-            <Link to={`/blog/${edge.node.fields.slug}`}>
-              <li>
+            <li className={blogStyles.singlePost}>
+              <Link to={`/blog/${edge.node.fields.slug}`}>
                 <h2>{edge.node.frontmatter.title}</h2>
                 <p>{edge.node.frontmatter.date}</p>
-              </li>
-            </Link>
+              </Link>
+            </li>
           )
         })}
       </ol>

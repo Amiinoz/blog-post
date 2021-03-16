@@ -31,7 +31,8 @@ Build blog post with gatsby and Contentful
 *  [x] Slugs
 *  [x] Generating pages
 *  [x] Rendering post
-*  [] Adding images
+*  [x] Adding images
+*  [x] Additional styling
 
 
 
@@ -56,6 +57,7 @@ Build blog post with gatsby and Contentful
 
 ## Credits
 
-* []
+* [x]Photo by Christopher Gower on Unsplash
+
 * []
 

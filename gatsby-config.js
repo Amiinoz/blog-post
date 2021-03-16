@@ -9,6 +9,14 @@ module.exports = {
   },
 
   plugins: [
+    {
+      resolve: 'gatsby-source-contentful',
+      options: {  // from contentful - settings - APIkeys - example key1
+
+        spaceId: process.env.CONTENTFUL_SPACE_ID,
+        accessToken: process.env.CONTENTFUL_ACCESS_TOKEN,
+      },
+    },
     'gatsby-plugin-sass',
     {
       resolve: `gatsby-source-filesystem`,

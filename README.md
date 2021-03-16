@@ -29,7 +29,7 @@ Build blog post with gatsby and Contentful
 *  [x] Sourcing content from the file system
 *  [x] Mark down posts
 *  [x] Slugs
-*  [] Generating pages
+*  [x] Generating pages
 *  [] Rendering post
 *  [] Adding images
 

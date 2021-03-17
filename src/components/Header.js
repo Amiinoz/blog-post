@@ -9,7 +9,7 @@ const Header = () => {
   // fetch data from graphQl
   const data = useStaticQuery(graphql`query {
 	site {
-    	siteMetadata {
+    	          siteMetadata {
         	title
     }
   }

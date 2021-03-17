@@ -40,8 +40,8 @@ Build blog post with gatsby and Contentful
 
 *  [x] Initial set up
 *  [x] Rendering Contentful Post
-*  [] 404 pages --> start her
-*  [] React Helmet
+*  [x] 404 pages --> start her
+*  [x] React Helmet
 
 
 ## Deployment

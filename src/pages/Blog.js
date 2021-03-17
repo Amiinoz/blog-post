@@ -3,7 +3,7 @@ import { Link, graphql, useStaticQuery } from "gatsby"
 
 import Layout from "../components/Layout"
 import * as blogStyles from "./blog.module.scss"
-
+import Head from "../components/head"
 // Render contentful posts
 // 1. Swap out the markdown query with the contentful query
 // 2. Update the component to render the new data
@@ -26,6 +26,7 @@ const Blog = () => {
 
   return (
     <Layout>
+    <Head title='Blog' />
       <h1>Blog</h1>
       <ol className={blogStyles.posts}>
         {data.allContentfulBlogPost.edges.map(edge => {

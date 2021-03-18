@@ -1,0 +1,22 @@
+.bio{
+display: flex;
+ justify-content:center;
+ align-items: center;
+ flex: 1;
+ justify-content: left;
+
+
+
+
+}
+
+.bioImage img{
+  border-radius: 50%;
+ height: 128px;
+  width: 128px;
+
+ }
+
+ .bioIntro{
+   padding-top: 30px;
+ }

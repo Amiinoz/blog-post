@@ -44,14 +44,17 @@ Build blog post with gatsby and Contentful
 *  [x] React Helmet
 
 
+## More?
+
+* [] improvements
+
+
+
 ## Deployment
 
 *  [] Netlify
 
-## More?
 
-* []
-* []
 
 
 

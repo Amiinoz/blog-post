@@ -60,6 +60,6 @@ Build blog post with gatsby and Contentful
 
 ## Credits
 
- [x]Photo by Christopher Gower on Unsplash
+* [x] Photo by Christopher Gower on Unsplash
 
 

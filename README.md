@@ -20,7 +20,7 @@ Build blog post with gatsby and Contentful
 *  [x] Navigation
 *  [x] Shared components
 *  [x] Layout
-*  [] Styling
+*  [x] Styling
      *  [x] npm install gatsby-plugin-sass  node-sass
      *  [x] gatsby-config
      *  [x] Css Modules
@@ -60,7 +60,6 @@ Build blog post with gatsby and Contentful
 
 ## Credits
 
-* [x]Photo by Christopher Gower on Unsplash
+ [x]Photo by Christopher Gower on Unsplash
 
-* []
 

@@ -2,8 +2,7 @@
 
 Blog
 
-
-<!-- ![example-site](example-site.gif) -->
+See it live: https://mosdevblog.netlify.app/
 
 ## Objectives
 

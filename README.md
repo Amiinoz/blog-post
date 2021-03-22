@@ -46,13 +46,13 @@ Build blog post with gatsby and Contentful
 
 ## More?
 
-* [] improvements
+* [x] improvements
 
 
 
 ## Deployment
 
-*  [] Netlify
+*  [x] Netlify
 
 
 

@@ -25,8 +25,7 @@ const Bio = () => {
 
         <p className={bioStyles.bioIntro}>
           Written by <strong>Mo Magan</strong> <br />
-          Building things. Nomad. Currently <br /> working on the @Sketchapp
-          plugin ecosystem 💎.
+          Building things. Learning New technology. Currently <br /> working on personal projects 💎.
         </p>
       </div>
     </>
